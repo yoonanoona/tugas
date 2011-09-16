@@ -1,0 +1,4 @@
+extrak git portable ke C
+buat enviroment untuk path git
+buka git ke instalasi folder
+set git "username" "email"
